@@ -1,4 +1,6 @@
-- C# - Python <br>
+- C# 
+- Python
+ <br>
 
 
 <h1 align="center">Contact</h1>
