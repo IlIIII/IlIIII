@@ -3,6 +3,8 @@
 - Python
  <br>
  My Discord :
+ 
+ 
 <img src="https://discord.c99.nl/widget/theme-1/852618085658787870.png">
 
 
