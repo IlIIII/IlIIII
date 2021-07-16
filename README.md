@@ -8,5 +8,5 @@
 <br>
 </p>
 # Stats
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=IlIIII&layout=compact&theme=dark) 
+![c]https://github-readme-stats.vercel.app/api/top-langs/?username=IlIIII&layout=compact&theme=dark) 
 
