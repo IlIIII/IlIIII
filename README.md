@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iliiii&show_icons=true&locale=en" alt="iliiii" /></p>
 
-<p align="center"><img align="center" src="[![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlIIII&layout=compact)](https://github.com/anuraghazra/github-readme-stats))">
+<p align="center"><img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlIIII&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
