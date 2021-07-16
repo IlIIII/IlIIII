@@ -14,4 +14,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iliiii" alt="iliiii" /></a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iliiii&show_icons=true&locale=en" alt="iliiii" /></p>
+# Stats 📈
+
+![stats](https://github-readme-stats.vercel.app/api?username=IlIIII&show_icons=true&theme=graywhite)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlIIII&layout=compact&theme=graywhite)   
