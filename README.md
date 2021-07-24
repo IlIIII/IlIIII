@@ -1,6 +1,7 @@
 
 - C# 
 - Python
+- Golang
  <br>
  
 <img src="https://komarev.com/ghpvc/?username=iliiii&label=Profile%20views&color=0e75b6&style=flat" alt="iliiii" /> </p>
